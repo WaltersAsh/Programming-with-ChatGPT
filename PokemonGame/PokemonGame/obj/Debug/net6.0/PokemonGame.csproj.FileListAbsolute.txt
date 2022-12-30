@@ -1,0 +1,15 @@
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\bin\Debug\net6.0\PokemonGame.exe
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\bin\Debug\net6.0\PokemonGame.deps.json
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\bin\Debug\net6.0\PokemonGame.runtimeconfig.json
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\bin\Debug\net6.0\PokemonGame.dll
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\bin\Debug\net6.0\PokemonGame.pdb
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\obj\Debug\net6.0\PokemonGame.csproj.AssemblyReference.cache
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\obj\Debug\net6.0\PokemonGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\obj\Debug\net6.0\PokemonGame.AssemblyInfoInputs.cache
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\obj\Debug\net6.0\PokemonGame.AssemblyInfo.cs
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\obj\Debug\net6.0\PokemonGame.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\obj\Debug\net6.0\PokemonGame.dll
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\obj\Debug\net6.0\refint\PokemonGame.dll
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\obj\Debug\net6.0\PokemonGame.pdb
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\obj\Debug\net6.0\PokemonGame.genruntimeconfig.cache
+C:\Users\Justin\Documents\github repositories\Programming-with-ChatGPT\PokemonGame\PokemonGame\obj\Debug\net6.0\ref\PokemonGame.dll
